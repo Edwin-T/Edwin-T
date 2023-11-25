@@ -1,6 +1,6 @@
 <h1>Hi, I'm Edwin Tienteu! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst</a>
 
-<h2>👨‍💻 Web Development Projects:</h2>
+<h2>👨‍💻 Web Development and Data Analysis Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
