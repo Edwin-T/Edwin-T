@@ -1,7 +1,7 @@
 <h1>Hi, I'm Edwin Tienteu! <br/><a href="https://github.com/Edwin-T">Programmer</a>, <a href="https://www.linkedin.com/in/edwin-tienteu-7994bb287/">Data Analyst</a>
 
 <h2>👨‍💻 Web Development and Data Analysis Projects:</h2>
-- <b>Full Stack Web App (React, NodeJS, JS, JAVA, and PHP)</b>
+- <b>Full Stack Web App (React, JS, JAVA, and PHP)</b>
   - [Image Analysis Middleware](https://github.com/Edwin-T/Javascript-and-Php) <b><i>(Potentially NSFW)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
